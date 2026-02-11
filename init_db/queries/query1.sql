@@ -1,2 +1,5 @@
--- write query to get details of customers with the name Ethan
+-- write query to get details of customers 
+
+
+-- Let's sort these alphabetically
  

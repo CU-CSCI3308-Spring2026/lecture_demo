@@ -1,1 +1,4 @@
--- Write a query to get the orders where a muffin was ordered
+-- Write a query to get the orders placed on '2026-02-03'
+
+
+-- Try a query to find customers with the name Ethan

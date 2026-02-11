@@ -1,0 +1,1 @@
+-- Write a query to show all customers who have placed at least one order

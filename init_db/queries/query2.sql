@@ -1,1 +1,1 @@
--- write a query to get all the orders for the customer with id = 5
+-- Write a query to display item_name and price from MenuItem.
