@@ -26,12 +26,13 @@ VALUES
     ('2026-02-04', 9.50, 7),
     ('2026-02-04', 15.00, 8);
 
-INSERT INTO Order_to_MenuItem (order_id, menu_item_id)
+-- run the query in the alter.sql file before running the following inserts
+INSERT INTO Order_to_MenuItem (order_id, menu_item_id, quantity)
 VALUES
-    (1, 1), 
-    (1, 3),  
-    (2, 2),  
-    (2, 3),
+    (1, 1, 1), 
+    (1, 3, 1),  
+    (2, 2, 1),  
+    (2, 3, 1),
     (3, 1, 1),
     (3, 3, 1),
     (4, 2, 2), 
